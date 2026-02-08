@@ -1,0 +1,11 @@
+1. Se debe implementar la aplicación completa en Netbeans/VSCode.
+2. Para determinar si el código está bien implementado se deben escribir y ejecutar las pruebas unitarias.
+3. Finalmente subir la aplicación al repositorio de GitHub (código fuente y pruebas unitarias). Al docente
+se debe reportar únicamente la URL de la aplicación para poder clonar la aplicación. Se pueden basar en
+este tutorial o cualquier otro. Lo importante es que utilicen los comandos git por consola.
+4. No está de más, que el estudiante saque otra versión de este programa utilizando Interfaces en lugar de
+clases abstractas. Este punto es para estudio personal, no se debe enviar como tarea al docente.
+
+
+Los requerimientos fueron atendidos correctamente , aun estudiando la teoria de las pruebas unitarias , el proyecto fue subido a GitHub a través de Git integrado en VSCode 
+se supliran cambios al mismo para evidenciar versionado.
