@@ -1,7 +1,7 @@
 package Entrega1;
 
 public class Triangle extends Figure {
-    private String name = "Triangle";
+    private String name = "Triangle"; 
 
     public Triangle(double x1, double y1) {
         super(x1, y1);
